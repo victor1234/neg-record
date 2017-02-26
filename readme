@@ -1,0 +1,2 @@
+mosquitto_pub -d -t neg-record/pipeline -m start
+mosquitto_pub -d -t neg-record/pipeline -m stop
